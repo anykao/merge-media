@@ -1,0 +1,6 @@
+[package]
+name = "merge-audio-video"
+version = "0.1.0"
+authors = ["600913 <600913@gmail.com>"]
+
+[dependencies]
